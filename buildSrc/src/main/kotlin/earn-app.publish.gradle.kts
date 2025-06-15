@@ -27,9 +27,9 @@ configure<PublishingExtension> {
                 }
 
                 scm {
-                    connection.set("scm:git:git://github.com/BoomchainLabs/chonk9k-dapp.git")
-                    developerConnection.set("scm:git:git://github.com/BoomchainLabs/chonk9k-dapp.git")
-                    url.set("https://github.com/BoomchainLabs/chonk9k-dapp")
+                    connection.set("scm:git:git://github.com/BoomchainLabs/awesome-vite.git")
+                    developerConnection.set("scm:git:git://github.com/BoomchainLabs/awesome-vite.git")
+                    url.set("https://github.com/BoomchainLabs/awesome-vite")
                 }
 
                 versionMapping {
